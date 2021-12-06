@@ -1,0 +1,9 @@
+{
+  "id": "shielded-holds-for-all",
+  "name": "Shielded Holds For All",
+  "author": "SOLDIER First",
+  "utility": "false",
+  "version": "1.0",
+  "description": "Makes Shielded Cargo Holds available to the player as a logistics hullmod.",
+  "gameVersion": "0.95a-RC15",
+}

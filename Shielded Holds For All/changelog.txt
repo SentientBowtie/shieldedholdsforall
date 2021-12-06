@@ -1,0 +1,17 @@
+>> 1.0 - Initial version!
+
+ -Shielded Cargo Holds is now available as a modspec.
+ -Shielded Cargo Holds is considered a logistics hullmod and requires docking at a spaceport to install or remove.
+ -Base cost set to 7500 credits. OP cost set to 8/16/24/40 for frigates/destroyers/cruisers/capitals. Tier is unchanged from unused vanilla settings (tier 2); rarity set to 0.75.
+ -Ships with Shielded Cargo Holds already built in (vanilla Hound, Cerberus, Mule (P), Buffalo (P); various modded ships) should not be affected by these changes.
+
+ -Shielded Cargo Holds is known to the following vanilla factions:
+ the Persean League, the independents, the Luddic Path, and the pirates.
+
+ -Shielded Cargo Holds is known to the following mod-added factions, if they exist:
+ the Rimward Venture Trading Company, the Persean Democratic People's Revolutionary Council, the Stormhawk Republic (Vayra's Sector);
+ Hazard Mining Incorporated (HMI);
+ the Mayasuran Navy (Mayasuran Navy);
+ the Reavers of Ludd (Keruvim Shipyards);
+ the Roider Union (Roider Union);
+ the Legio Infernalis (Tahlan Shipworks).
